@@ -13,6 +13,12 @@ Dashboard to display overall key metrics such as Citi Bike's user base, trip, an
 
 ![NY Citi Bike Dashboard](https://github.com/just-yen/bikesharing/blob/main/Resources/NYC%20Citi%20Bike%20Dashboard.PNG)
 
+- 2.3+ million rides for the month of August 2019.
+- 81% of NY Citi Bike users were subscribers. 65% of the users were confirmed males and 25% were confirmed females.
+- There is a wide range of the age of the users. Younger users tend to use the service for longer rides.
+- Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
+
+
 Graph 1.0: NY Citi Bike Checkout Time per User 
 
 ![NY Citi Bike Checkout Time Per User](https://github.com/just-yen/bikesharing/blob/main/Resources/Checkout%20time%20by%20User%20Overall.PNG)
