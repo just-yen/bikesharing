@@ -9,18 +9,6 @@ Leveraging Python and tools such as pandas for the ETL (Extract, Transfer, Load)
 ## Results 
 **[NY Citi Bike Dashboard Link](https://public.tableau.com/app/profile/justin.yen/viz/NYCCitiBikeDashboard_16370415658170/NYCCitiBike?publish=yes)**
 
-Dashboard to display overall key metrics such as Citi Bike's user base, trip, and location usage rates.
-
-
-## Overview 
-Using data from Citi Bike to create a story to help convince investors that a bike-sharing program in Des Moines is a great business opportunity! In order to solidfy the propsal, data visualization tools such as Tableau are used to help stakeholders upgrade their bussiness propsal. 
-
-### Tools Used 
-Leveraging Python and tools such as pandas for the ETL (Extract, Transfer, Load) process to blend data from disparate sources. Tableau was used to create a story out of the data after the ETL process. 
-
-## Results 
-**[NY Citi Bike Dashboard Link](https://public.tableau.com/app/profile/justin.yen/viz/NYCCitiBikeDashboard_16370415658170/NYCCitiBike?publish=yes)**
-
 ![Dashbord](https://github.com/just-yen/bikesharing/blob/main/Resources/NYC%20Citi%20Bike%20Dashboard.PNG)
 
 Dashboard to display overall key metrics such as Citi Bike's user base, trip, and location usage rates.
