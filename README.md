@@ -22,9 +22,9 @@ Leveraging Python and tools such as pandas for the ETL (Extract, Transfer, Load)
 ## Results 
 **[NY Citi Bike Dashboard Link](https://public.tableau.com/app/profile/justin.yen/viz/NYCCitiBikeDashboard_16370415658170/NYCCitiBike?publish=yes)**
 
-Dashboard to display overall key metrics such as Citi Bike's user base, trip, and location usage rates.
+![Dashbord](https://github.com/just-yen/bikesharing/blob/main/Resources/NYC%20Citi%20Bike%20Dashboard.PNG)
 
-![NY Citi Bike Dashboard](https://github.com/just-yen/bikesharing/blob/main/Resources/Dashboard%20new.PNG)
+Dashboard to display overall key metrics such as Citi Bike's user base, trip, and location usage rates.
 
 - 2.3+ million rides for the month of August 2019.
 - 81% of NY Citi Bike users were subscribers. 65% of the users were confirmed males and 25% were confirmed females.
